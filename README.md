@@ -16,7 +16,7 @@ Right now I am currently living in Vietnam.
  - Cycling
 
 ### Favorite Technologies To Work With
-Docker, Airflow, BigQuery, Airflow, Tensorflow, Computer Vision
+Docker, Airflow, SpaCy, Torch, Computer Vision, Recommender System
 
 ### Currently Exploring
 GANs, Spark Streaming, NLP
