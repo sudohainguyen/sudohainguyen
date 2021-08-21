@@ -21,4 +21,4 @@ Docker, Airflow, SpaCy, Torch, Computer Vision, Recommender System
 ### Currently Exploring
 GANs, Spark Streaming, NLP
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudohainguyen&layout=compact&hide=html,jupyter%20notebook&exclude=sudohainguyen.github.io" alt="sudohainguyen" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudohainguyen&layout=compact&hide=html,jupyter%20notebook&exclude_repo=sudohainguyen.github.io" alt="sudohainguyen" /></div>
