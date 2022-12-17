@@ -16,9 +16,7 @@ Currently living in Vietnam.
  - Swimming
 
 ### Favorite Technologies To Work With
-Spark, Airflow, Distributed System, ML Platform, Recommender System
+Spark, Airflow, Distributed System, MLOps, Recommender System
 
 ### Currently Exploring
 Data drift detection, Scala Spark, CI/CD for ML models, Database System
-
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudohainguyen&layout=compact&hide=html,jupyter%20notebook&exclude_repo=sudohainguyen.github.io" alt="sudohainguyen" /></div>
