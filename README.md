@@ -21,5 +21,4 @@ Spark, Airflow, Distributed System, MLOps, Recommender System
 ### Currently Exploring
 Data drift detection, Scala Spark, CI/CD for ML models, Database System
 
-[![sudohainguyen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sudohainguyen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+[![sudohainguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudohainguyen)](https://github.com/anuraghazra/github-readme-stats)
