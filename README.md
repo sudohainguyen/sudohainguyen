@@ -1,6 +1,6 @@
 # Engineer & Side Project 
 
-As a professional Machine Learning Engineer, I often get to work with big data pipeline, ML models and cloud technologies to continuously deliver value for my team, users and business goal. 
+Working in Data/ML areas and a nightly open-source project contributor
 
 Currently living in Vietnam.
 
@@ -12,13 +12,13 @@ Currently living in Vietnam.
 ### Things I like to geek out on
  - Coding & Open-source Projects
  - Coffee
- - Traveling
+ - Hiking
  - Swimming
 
 ### Favorite Technologies To Work With
-Spark, Airflow, Distributed System, MLOps, Recommender System
+Apache Spark, Airflow, Distributed System, MLOps, Data Engineering, Kubernetes, Database system
 
 ### Currently Exploring
-Data drift detection, Scala Spark, CI/CD for ML models, Database System
+Platform Engineering, Streaming data processing, Data contract.
 
 [![sudohainguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudohainguyen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
